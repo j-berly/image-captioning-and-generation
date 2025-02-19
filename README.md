@@ -14,7 +14,7 @@
 image_captioning_project/
 ├── datasets/               # 数据存储
 │   ├── img.jpg             # 图像文件
-├── weights/                # 预模型文件夹
+├── models/                 # 预模型文件夹
 │   ├── feature_extractor/  # 图像特征提取器——VinVL
 │   └── image_caption/      # 图像描述——MengZi
 │   └── nlp_tool/           # prompt优化过滤
